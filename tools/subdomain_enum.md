@@ -1,90 +1,33 @@
-Subdomain Enumeration Tools:
-Sublist3r - Fast subdomains enumeration tool for penetration testers
-GitHub Link
-
-Amass - In-depth Attack Surface Mapping and Asset Discovery
-GitHub Link
-
-massdns - A high-performance DNS stub resolver for bulk lookups and reconnaissance
-GitHub Link
-
-Findomain - The fastest and cross-platform subdomain enumerator
-GitHub Link
-
-Sudomy - Subdomain enumeration tool for automated reconnaissance
-GitHub Link
-
-chaos-client - Go client to communicate with Chaos DNS API
-GitHub Link
-
-domained - Multi-tool subdomain enumeration
-GitHub Link
-
-bugcrowd-levelup-subdomain-enumeration - Subdomain enumeration techniques from Bugcrowd LevelUp 2017
-GitHub Link
-
-shuffledns - Wrapper around massdns for subdomain enumeration with wildcard handling
-GitHub Link
-
-censys-subdomain-finder - Subdomain enumeration using Censys certificate transparency logs
-GitHub Link
-
-Turbolist3r - Subdomain enumeration tool with analysis features
-GitHub Link
-
-censys-enumeration - Extract subdomains from Censys SSL/TLS certificate data
-GitHub Link
-
-tugarecon - Fast subdomain enumeration tool for penetration testers
-GitHub Link
-
-as3nt - Subdomain enumeration tool
-GitHub Link
-
-Subra - Web UI for subdomain enumeration (subfinder)
-GitHub Link
-
-Substr3am - Passive reconnaissance tool for subdomain enumeration via SSL certificates
-GitHub Link
-
-domain - Enumall.py script for Regon-ng
-GitHub Link
-
-altdns - Generates permutations of subdomains and resolves them
-GitHub Link
-
-brutesubs - Automation framework for subdomain brute-forcing tools
-GitHub Link
-
-dns-parallel-prober - Parallel domain name prober for subdomain enumeration
-GitHub Link
-
-dnscan - DNS subdomain scanner based on wordlist
-GitHub Link
-
-knock - Subdomain enumeration through wordlist-based DNS lookups
-GitHub Link
-
-hakrevdns - Small and fast reverse DNS lookup tool
-GitHub Link
-
-dnsx - Multi-purpose DNS toolkit for fast queries
-GitHub Link
-
-subfinder - Discover valid subdomains for websites
-GitHub Link
-
-assetfinder - Find subdomains related to a given domain
-GitHub Link
-
-crtndstry - Subdomain finder using certificate transparency logs
-GitHub Link
-
-VHostScan - Virtual host scanner with reverse lookups
-GitHub Link
-
-scilla - Information gathering tool for DNS, subdomains, and ports
-GitHub Link
-
-sub3suite - Suite of subdomain enumeration and attack surface mapping tools
-GitHub Link
+<h1>Subdomain Enumeration Tools</h1>
+    <ul>
+        <li><a href="https://github.com/aboul3la/Sublist3r" target="_blank">Sublist3r</a> - Fast subdomains enumeration tool for penetration testers</li>
+        <li><a href="https://github.com/OWASP/Amass" target="_blank">Amass</a> - In-depth Attack Surface Mapping and Asset Discovery</li>
+        <li><a href="https://github.com/blechschmidt/massdns" target="_blank">massdns</a> - A high-performance DNS stub resolver for bulk lookups and reconnaissance</li>
+        <li><a href="https://github.com/Edu4rdSHL/findomain" target="_blank">Findomain</a> - The fastest and cross-platform subdomain enumerator</li>
+        <li><a href="https://github.com/Screetsec/Sudomy" target="_blank">Sudomy</a> - Subdomain enumeration tool for automated reconnaissance</li>
+        <li><a href="https://github.com/projectdiscovery/chaos-client" target="_blank">chaos-client</a> - Go client to communicate with Chaos DNS API</li>
+        <li><a href="https://github.com/TypeError/domained" target="_blank">domained</a> - Multi-tool subdomain enumeration</li>
+        <li><a href="https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration" target="_blank">bugcrowd-levelup-subdomain-enumeration</a> - Subdomain enumeration techniques from Bugcrowd LevelUp 2017</li>
+        <li><a href="https://github.com/projectdiscovery/shuffledns" target="_blank">shuffledns</a> - Wrapper around massdns for subdomain enumeration with wildcard handling</li>
+        <li><a href="https://github.com/chennj/Censys-Subdomain-Finder" target="_blank">censys-subdomain-finder</a> - Subdomain enumeration using Censys certificate transparency logs</li>
+        <li><a href="https://github.com/TurboLabs/Turbolist3r" target="_blank">Turbolist3r</a> - Subdomain enumeration tool with analysis features</li>
+        <li><a href="https://github.com/chennj/Censys-Enumeration" target="_blank">censys-enumeration</a> - Extract subdomains from Censys SSL/TLS certificate data</li>
+        <li><a href="https://github.com/ZephrFish/Tugarecon" target="_blank">tugarecon</a> - Fast subdomain enumeration tool for penetration testers</li>
+        <li><a href="https://github.com/RedHuntLabs/as3nt" target="_blank">as3nt</a> - Subdomain enumeration tool</li>
+        <li><a href="https://github.com/aboul3la/Subra" target="_blank">Subra</a> - Web UI for subdomain enumeration (subfinder)</li>
+        <li><a href="https://github.com/expalmer/Substr3am" target="_blank">Substr3am</a> - Passive reconnaissance tool for subdomain enumeration via SSL certificates</li>
+        <li><a href="https://github.com/lanjelot/domained" target="_blank">domain</a> - Enumall.py script for Regon-ng</li>
+        <li><a href="https://github.com/infosec-au/altdns" target="_blank">altdns</a> - Generates permutations of subdomains and resolves them</li>
+        <li><a href="https://github.com/TheRook/subbrute" target="_blank">brutesubs</a> - Automation framework for subdomain brute-forcing tools</li>
+        <li><a href="https://github.com/blechschmidt/dns-parallel-prober" target="_blank">dns-parallel-prober</a> - Parallel domain name prober for subdomain enumeration</li>
+        <li><a href="https://github.com/rbsec/dnscan" target="_blank">dnscan</a> - DNS subdomain scanner based on wordlist</li>
+        <li><a href="https://github.com/guelfoweb/knock" target="_blank">knock</a> - Subdomain enumeration through wordlist-based DNS lookups</li>
+        <li><a href="https://github.com/hakluke/hakrevdns" target="_blank">hakrevdns</a> - Small and fast reverse DNS lookup tool</li>
+        <li><a href="https://github.com/projectdiscovery/dnsx" target="_blank">dnsx</a> - Multi-purpose DNS toolkit for fast queries</li>
+        <li><a href="https://github.com/projectdiscovery/subfinder" target="_blank">subfinder</a> - Discover valid subdomains for websites</li>
+        <li><a href="https://github.com/tomnomnom/assetfinder" target="_blank">assetfinder</a> - Find subdomains related to a given domain</li>
+        <li><a href="https://github.com/shivsahni/CrtnDstRy" target="_blank">crtndstry</a> - Subdomain finder using certificate transparency logs</li>
+        <li><a href="https://github.com/ustayready/VHostScan" target="_blank">VHostScan</a> - Virtual host scanner with reverse lookups</li>
+        <li><a href="https://github.com/edoardottt/scilla" target="_blank">scilla</a> - Information gathering tool for DNS, subdomains, and ports</li>
+        <li><a href="https://github.com/sub3suite/sub3suite" target="_blank">sub3suite</a> - Suite of subdomain enumeration and attack surface mapping tools</li>
+    </ul>
